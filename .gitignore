@@ -16,4 +16,12 @@ yarn-error.log
 /.fleet
 /.idea
 /.vscode
+.env
+/storage/logs
+/storage/framework/cache
+/storage/framework/sessions
+/storage/framework/views
+Thumbs.db
+.DS_Store
+/.docker
 
